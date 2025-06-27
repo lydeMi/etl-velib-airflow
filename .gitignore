@@ -1,0 +1,9 @@
+# Fichiers sensibles et dossiers inutiles
+env_files/.env*
+__pycache__/
+*.pyc
+airflow/logs/
+airflow/dags/__pycache__/
+.env
+.env.local
+.DS_Store
